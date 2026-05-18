@@ -36,3 +36,6 @@ Actualmente terminando mi tecnicatura y trabajando en proyectos con Angular y Ty
 ### 📫 Contacto
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/franetovichmariapia)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/541121542210)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:franetovmariapia@gmail.com)
+
